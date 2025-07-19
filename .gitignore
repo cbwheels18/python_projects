@@ -1,0 +1,10 @@
+# Ignore all .env files anywhere
+*.env
+
+# Optional: Python cache files
+__pycache__/
+*.pyc
+
+# Optional: VS Code or PyCharm project files
+.vscode/
+.idea/
